@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sidh261805
+- 👋 Hi, I’m @siddharth
 - 👀 I’m interested in developing application related to Embedded system 
 - 🌱 Skills: cpp, python, docker, jenkins, php, db
 - 📫 You can reach me on 25.siddharthdhakad@gmail.com
