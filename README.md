@@ -8,5 +8,8 @@ sidh261805/sidh261805 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
+[![GitHub stars](https://img.shields.io/github/stars/themlphdstudent/awesome-github-profile-readme-templates.svg)](https://github.com/sidh261805/sidh261805)
+[![GitHub forks](https://img.shields.io/github/forks/themlphdstudent/awesome-github-profile-readme-templates.svg?color=blue)](https://github.com/sidh261805/sidh261805)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sidh261805&layout=compact)](https://github.com/sidh261805/sidh261805)
 
