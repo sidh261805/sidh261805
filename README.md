@@ -1,11 +1,34 @@
 - 👋 Hi, I’m @siddharth
-- 👀 I’m interested in developing application related to Embedded system 
-- 🌱 Skills: cpp, python, docker, jenkins, php, db
-- 📫 You can reach me on 25.siddharthdhakad@gmail.com
+💡 Embedded Systems & Software Engineer with a strong focus on building reliable, performance-critical applications.
 
-<!---
-sidh261805/sidh261805 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 Interests
+
+Embedded systems & automotive software
+
+Linux-based platforms and system integration
+
+IoT, diagnostics, and low-level application development
+
+🛠 Technical Skills
+
+Languages: C++, Python, PHP
+
+Embedded & Systems: Embedded Linux, Automotive/IoT applications
+
+DevOps & Tooling: Docker, Jenkins, CI/CD pipelines
+
+Databases: SQL-based databases
+
+Other: System integration, debugging, performance optimization
+
+🌱 Currently Learning
+
+Advanced embedded Linux and automotive software architectures
+
+Scalable IoT and cloud-connected systems
+
+📫 Contact
+
+Email: 25.siddharthdhakad@gmail.com
 
 
